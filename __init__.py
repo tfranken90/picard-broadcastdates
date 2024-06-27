@@ -1,4 +1,4 @@
-PLUGIN_NAME = "Dates"
+PLUGIN_NAME = "BroadcastDates"
 PLUGIN_AUTHOR = ""
 PLUGIN_DESCRIPTION = '''
 Add metadata containing broadcast and streaming dates
